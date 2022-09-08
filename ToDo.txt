@@ -1,0 +1,5 @@
+1) Εξήγηση του Linear Regression ML algorithm
+2) Βρες τα X και y
+3) Χώρισε τα σύμφωνα με τη μέθοδο 10-fold cross vallidation
+4) Υπολόγισε τα errors στην φάση της εκπαίδευσης
+5) Υπολόγισε τα errors στην φάση του ελέγχου
